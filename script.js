@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 function timeClock() {
     var current = new Date();
-    var dayname = current.getDate(),
+    var dayname = current.getDay(),
         monthname = current.getMonth(),
         date = current.getDate(),
         year = current.getFullYear(),
