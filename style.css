@@ -1,4 +1,4 @@
-* {
+g* {
     margin: 0;
     padding: 0;
 }
@@ -909,6 +909,9 @@ label > p {
         width: 379px;
         margin-left: 9px;
         transition: 0.5s;
+    }
+    .box-hobby-single p {
+        font-size: 19px;
     }
     #information h1 {
         font-size: 50px;
