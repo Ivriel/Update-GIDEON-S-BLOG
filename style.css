@@ -704,3 +704,306 @@ label > p {
     box-shadow: none;
     transition: 0.5s;
 }
+@media screen and (max-width:1024px) {
+    .image-profile {
+        width: 420px;
+        height: 470px;
+        margin-left: -50px;
+        margin-top: 20px;
+        transition: 0.5s;
+    }
+    .text-container button {
+        margin-top: 29px;
+        transition: 0.5s;
+    }
+    .text-container p {
+        margin-top: 20px;
+        transition: 0.5s;
+    }
+    .box-hobby-container {
+        gap: 70px;
+        transition: 0.5s;
+    }
+    .introduction-content-container {
+        gap: 20px;
+        transition: 0.5s;
+    }
+    .box-hobby-single {
+        margin-left: 280px;
+        margin-top: 80px;
+        transition: 0.5s;
+    }
+    .contact-footer {
+        gap: 20px;
+        transition: 0.5s;
+    }
+    footer {
+        gap: 200px;
+        transition: 0.5s;
+    }
+}
+@media  screen and (max-width:820px) {
+    .logo h1 {
+        font-size: 30px;
+        margin-top: 10px;
+        text-align: center;
+        transition: 0.5s;
+    }
+    nav {
+    flex-direction: column;
+    transition: 0.5s;
+    }
+    nav ul {
+        font-size: 20px;
+        margin-bottom: 8px;
+        text-align: center;
+        padding-right: 0px;
+        transition: 0.5s;
+    }
+    #about {
+        height: 900px;
+        transition: 0.5s;
+    }
+    .box-flex-1 {
+       display: grid;
+       margin-top: 65px;
+       gap: 50px;
+       transition: 0.5s;
+    }
+    .box-flex-2 {
+        display: grid;
+        margin-top: 50px;
+        gap: 50px;
+        transition: 0.5s;
+    }
+    #hobby {
+        height: 1280px;
+        transition: 0.5s;
+    }
+    .box-hobby-container {
+        display: grid;
+        gap: 100px;
+        transition: 0.5s;
+    }
+    .box-hobby-single {
+        margin: 100px 0px 0px 175px;
+        transition: 0.5s;
+    }
+    footer {
+        height: 250px;
+        gap: 20px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(1) {
+        font-size: 45px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(2) {
+        font-size: 45px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(3) {
+        font-size: 45px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container button {
+        margin-top:25px;
+        transition: 0.5s;
+    }
+    #introduction {
+        height: 600px;
+        transition: 0.5s;
+    }
+    .image-profile {
+        height: 400px;
+        transition: 0.5s;
+    }
+}
+    @media  screen and (max-width:768px) {
+        #information h1 {
+            font-size: 70px;
+            transition: 0.5s;
+        }
+        .text-container h1:nth-child(1) {
+            font-size: 40px;
+            margin-top: 10px;
+            transition: 0.5s;
+        }
+        .text-container h1:nth-child(2) {
+            font-size: 40px;
+            margin-top: 10px;
+            transition: 0.5s;
+        }
+        .text-container h1:nth-child(3) {
+            font-size: 40px;
+            margin-top: 10px;
+            transition: 0.5s;
+        }
+        .text-container button {
+            margin-top:40px;
+            transition: 0.5s;
+        }
+        #introduction {
+            height: 600px;
+            transition: 0.5s;
+        }
+        .image-profile {
+            height: 400px;
+            transition: 0.5s;
+        }
+}
+@media screen and (max-width:412px) {
+    #vsc h1 {
+        font-size: 36px;
+        transition: 0.5s;
+    }
+    .image-vsc {
+        width: 400px;
+        transition: 0.5s;
+    }
+    .logo h1 {
+        font-size: 25px;
+        transition: 0.5s;
+    }
+    nav ul {
+        font-size: 16px;
+        gap: 70px;
+        transition: 0.5s;
+    }
+    .home-content h1 {
+        font-size: 50px;
+        transition: 0.5s;
+    }
+    #home-container {
+        height: 690px;
+        transition: 0.5s;
+    }
+    #introduction {
+        height: 800px;
+        transition: 0.5s;
+    }
+    .image-profile {
+        width: 300px;
+        height: 300px;
+        margin-left: -20px;
+        transition: 0.5s;
+    }
+    .introduction-content-container {
+        display: grid;
+        padding-top:  20px;
+        transition: 0.5s;
+        gap: 0px;
+    }
+    #about {
+        height: 1000px;
+        transition: 0.5s;
+    }
+    .box-hobby {
+        width: 379px;
+        transition: 0.5s;
+    }
+    .box-hobby-single {
+        width: 379px;
+        margin-left: 9px;
+        transition: 0.5s;
+    }
+    #information h1 {
+        font-size: 50px;
+        transition: 0.5s;
+    }
+    #information-last h1 {
+        font-size: 50px;
+        transition: 0.5s;
+    }
+    footer {
+        display: grid;
+        height: 450px;
+        transition: 0.5s;
+    }
+    .contact-footer {
+        margin-top: -20px;
+        display: flex;
+        justify-content: center;
+        transition: 0.5s;
+    }
+}
+@media screen and (max-width:360px) {
+    .box {
+        width: 330px;
+        transition: 0.5s;
+    }
+    .box-hobby {
+        width: 325px;
+        transition: 0.5s;
+    }
+    .hobby-content p {
+        font-size: 17px;
+        transition: 0.5s;
+    }
+    .box-hobby-single {
+        width: 325px;
+        transition: 0.5s;
+    }
+    .hobby-content-single p {
+        font-size: 17px;
+        transition: 0.5s;
+    }
+    form {
+        padding: 30px 70px 70px 70px;
+        transition: 0.5s;
+    }
+    .image-vsc {
+        width: 360px;
+        transition: 0.5s;
+    }
+    .datetime {
+        width: 280px;
+        transition: 0.5s;
+    }
+    .contact-footer {
+        margin-top: 20px;
+        transition: 0.5s;
+    }
+    footer {
+        height: 460px;
+        transition: 0.5s;
+    }
+    .logo-footer a {
+        font-size: 40px;
+        transition: 0.5s;
+    }
+    .image-profile {
+        margin-left: -40px;
+        transition: 0.5s;
+    }
+    .text-container {
+        margin-left: -30px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(1) {
+        font-size: 30px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(2) {
+        font-size: 30px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container h1:nth-child(3) {
+        font-size: 30px;
+        margin-top: 10px;
+        transition: 0.5s;
+    }
+    .text-container p {
+        font-size: 15px;
+        transition: 0.5s;
+    }
+    .text-container button {
+        margin-top:40px;
+        transition: 0.5s;
+    }
+}
