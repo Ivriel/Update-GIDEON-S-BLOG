@@ -21,4 +21,9 @@ Versi original ada di repository sebelumnya\
 Ukuran dekstop only no responsive\
 Isi diluar tanggung jawab author jika sudah diserahkan kepada guru untuk penilaian\
 Semua bug dan error yang disebabkan oleh klien tidak menjadi tanggung jawab author\
+
+# Fitur Utama
+**Customer Service:** Hubungi customer service dan dapatkan jawaban seputar website secara real time
+
+## Contact
 Instagram:wynsc_u13
