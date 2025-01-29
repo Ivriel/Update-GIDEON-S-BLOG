@@ -1,4 +1,5 @@
 ### UPDATE
+
 1. Parralax Scroll (background image)
 2. Login form (will show the input from user with the alert)
 3. Live Day and Clock
